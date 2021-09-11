@@ -26,8 +26,6 @@
   <a href = "mailto:robinpaulista85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/robinson-dias-1888043a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-    ![Snake animation](https://github.com/robinson-1985/robinson-1985/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
 
