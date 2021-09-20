@@ -1,4 +1,4 @@
-### Olá! Eu sou o Robinson Dias 👋
+### Olá! Eu sou Robinson Dias 👋
 
 - 🌱 Estudando: Python, C, C++, C#, HTML, CSS, JavaScript, Java e os frameworks Bootstrap, Angular, .NET, JQuery e TypeScript. 
 
