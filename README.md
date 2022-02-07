@@ -1,6 +1,6 @@
 ### Olá! Eu sou Robinson Dias 👋
 
-- 🌱 Estudando: Python, C, C++, C#, HTML, CSS, JavaScript, Java e os frameworks Django, Bootstrap, Angular, .NET, JQuery e TypeScript. 
+- 🌱 Estudando: Python, HTML, CSS, JavaScript, Java e os frameworks Django e Bootstrap. 
 
 <div>
   <a href="https://github.com/robinson-1985">
