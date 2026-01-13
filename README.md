@@ -52,7 +52,7 @@ incluindo validações, cálculos e manipulação de dados.
 
 * **Enfermagem** – PUC Goiás
 * **Mestrado em Educação** – UNESP (Educação Sexual, Sexualidade e Cultura)
-* **Análise e Desenvolvimento de Sistemas** – em andamento
+* **Análise e Desenvolvimento de Sistemas** – FATEC Taquaritinga (SP)
 
 ---
 
