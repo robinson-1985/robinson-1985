@@ -1,32 +1,77 @@
-### Olá! Eu sou Robinson Dias 👋
+# 👨‍⚕️💻 Robinson Dias
 
-- 🌱 Estudando: Python, HTML, CSS, JavaScript e os frameworks Django, Angular, React e Bootstrap. 
+### Desenvolvedor Python | Django | Tecnologia aplicada à Saúde
 
-<div>
-  <a href="https://github.com/robinson-1985">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robinson-1985&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinson-1985&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Sou **enfermeiro formado há 15 anos**, com experiência prática em **saúde, cuidado e gestão de pessoas**, 
+atualmente em transição e consolidação na área de **Tecnologia da Informação**, com foco em **desenvolvimento 
+de sistemas para a área da saúde**.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rob-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rob-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rob-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rob-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rob-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rob-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rob-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-   
- ##
- 
-<div> 
-    <a href="https://www.instagram.com/vamosmudardeassunto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:robinpaulista85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/robinson-dias-1888043a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Atuo no desenvolvimento de aplicações utilizando **Python e Django**, criando soluções reais para 
+**gestão de pacientes, atendimentos e serviços de cuidado**, unindo conhecimento técnico com vivência prática 
+do contexto hospitalar e assistencial.
 
-</div>
+---
 
+## 🧠 Áreas de atuação
 
+* Desenvolvimento de sistemas para saúde
+* Aplicações web com Python e Django
+* Modelagem de dados e lógica de negócio
+* Automação de rotinas e scripts em Python
+* Tecnologia aplicada ao cuidado, bem-estar e gestão em saúde
 
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+* **Linguagens:** Python, JavaScript (básico)
+* **Frameworks:** Django
+* **Banco de Dados:** SQLite, PostgreSQL
+* **Web:** HTML, CSS
+* **Outros:** Git, GitHub, Linux
+* **Conceitos:** MVC, CRUD, autenticação, boas práticas de código
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 **Vitta / Senescence**
+Sistema web desenvolvido com Django para **gestão de pacientes e atendimentos**, voltado à área da saúde e cuidado humano.
+➡️ Cadastro de pacientes
+➡️ Registro de atendimentos
+➡️ Autenticação de usuários
+➡️ Organização de dados clínicos
+
+🔹 **Python – Estudos e Utilidades**
+Repositórios com scripts e exercícios em Python focados em **lógica, automação e aplicações práticas**, 
+incluindo validações, cálculos e manipulação de dados.
+
+---
+
+## 🎓 Formação
+
+* **Enfermagem** – PUC Goiás
+* **Mestrado em Educação** – UNESP (Educação Sexual, Sexualidade e Cultura)
+* **Análise e Desenvolvimento de Sistemas** – em andamento
+
+---
+
+## 🌱 Em desenvolvimento contínuo
+
+* Aprimoramento em Django e arquitetura de projetos
+* Boas práticas de engenharia de software
+* Integração entre tecnologia, saúde e cuidado humano
+
+---
+
+## 📫 Contato
+
+* GitHub: [github.com/robinson-1985](https://github.com/robinson-1985)
+
+---
+
+### 💡 Objetivo profissional
+
+Atuar como **desenvolvedor Python/Django**, especialmente em projetos que envolvam 
+**saúde, cuidado, bem-estar e impacto social**, contribuindo com soluções tecnológicas 
+alinhadas à realidade do cuidado humano.
