@@ -75,7 +75,7 @@ Coleção de scripts e projetos práticos em Python
 ## 🎓 Formação Acadêmica
 
 **Análise e Desenvolvimento de Sistemas**  
-FATEC Taquaritinga (SP) | Em andamento
+FATEC Taquaritinga (SP) | Concluído
 
 **Mestrado em Educação**  
 UNESP | Concluído  
